@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This project adds 3 one bit wide vectors together
+This project adds 3 one bit wide vectors together.
 
 ## How to test
 
