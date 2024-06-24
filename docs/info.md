@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This project adds 3 one bit wide vectors together.
-
+The project takes in three one-bit wide vectors and adds them together.
 ## How to test
 
-Cycle all of the input bits, and verify that it adds them.
+cycle all the inputs bits and verify that it adds.
 
 ## External hardware
 
